@@ -1,24 +1,4 @@
-# demo
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+TODO 实现新增用户、用户列表、修改用户名、搜索用户删除用户、
+基本要求：使用 vue/angularjs/react 开发，
+补充说明：诚信自我独立完成，注意代码质量，提供单元测试用作为例加分项
+提供 gitee/github 地址一份即可
